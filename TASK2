@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College form</title>
+</head>
+<body >n=""> 
+    <p> FULL NAME OF APPLICANT:</p>
+    <input type="text"placeholder="first name">
+    <input type="text"placeholder="last name"><br>
+    <P>FATHER'S NAME:</P>
+    <input tyoe=""><br>
+    <p>OCCUPATION OF FATHER:</p>
+    <input type=""><br>
+    <P>MOTHER'S NAME:</P>
+    <h1> COLLEGE ADMISSIONS FORM</h1>
+    <i>Thank you for applying to our college.Please fill in the form given below to complete the registration process for admission.</i>
+    <hr>
+<form action>
+
+    <input type=""><br>
+    <P>AGE IN YEARS:</P>
+    <input type=""><br>
+    <p>DATE OF BIRTH:</p>
+    <input type="date"><br>
+    GENDER :
+    male<input type="radio"name="Gender">
+    female<input type="radio"name="Gender"><br>
+    ADDRESS:<textarea rows="3"cols="60"></textarea><p>PIN CODE:</p><input type=""><br>
+    <p>DISTRICT:</p><input type="">
+    <P>EMAIL</P>
+    <input type="email"><br>
+    <P>PHONE NUMBER:</P>
+    <input type=""placeholder="enter a valid number">
+    <p>PARENT'S PHONE NUMBER:</p><input type=""><br>
+    <p>CATEGORY:</p>
+    SC<input type="radio"name="sc">
+    ST<input type="radio"name="sc">
+    OBC<input type="radio"name="sc">
+   ANYOTHER<input type="radio"name="sc"><br>
+   <p>NATIONALITY:</p>
+   <input type=""><br>
+   <p>COURSE APPLIED FOR:</p>
+   <input type="RADIO"name="civil engineering"<p>computer science nd ngineering</p><br>
+   <input type="RADIO"name="civil engineering"<p>electronics and communication engineering</p><br>
+   <input type="RADIO"name="civil engineering"<p>electrical and electronics engineering</p><br>
+   <input type="RADIO"name="civil engineering"<p>mechanical engineering</p><br>
+   <input type="RADIO"name="civil engineering"<p>civil engineering</p><br>
+   <input type="RESET"value="RESET">
+   <input type="SUBMIT"value="SUBMIT">
+</form>
+    
+</body>
+</html>
+
