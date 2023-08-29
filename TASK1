@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Webpage</title>
+    <style>
+        a{text-decoration:none;}
+    </style>
+</head>
+<body>
+    <table style ="width:100%">
+        <thead>
+            <tr>
+                <td colspan="6"><h1 style="color:darkgreen;text-align:center">NATURE</h1>
+                </td>
+            </tr>
+            <tr style="background:rgb(0, 128, 75)">
+                <td align="center" style="padding:10px;"><a href=""style="color:#fff;">Home</a></td>
+                <td align="center" style="padding:10px;"><a href=""style="color:#fff;">About</a></td>
+                
+                <td align="center" style="padding:10px;"><a href=""style="color:#fff;">FAQ</a></td>
+                <td align="center" style="padding:10px;"><a href=""style="color:#fff;">Contact</a></td>
+            </tr>
+            <table>
+                <img src="https://static.vecteezy.com/system/resources/thumbnails/007/534/194/small/nature-concept-banner-with-lush-green-foliage-illustration-vector.jpg " style="width:100%;">
+        </table>
+                </thead>
+</body>
+</html>
